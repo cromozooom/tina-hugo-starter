@@ -5,5 +5,6 @@ images:
   - {}
 title: bfg
 layout: artwork
+materials: test
 ---
 
